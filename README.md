@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: 
          📧 shirshadatta2000@gmail.com 
-         🔗 https://www.linkedin.com/in/shirsha-datta-30335a178/
+         💼 https://www.linkedin.com/in/shirsha-datta-30335a178/
          👏 https://medium.com/@shirshadatta2000
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Hearing me laugh will make you laugh too 😂
