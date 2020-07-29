@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 - 💬 Ask me about anything
 - 📫 How to reach me: 
-         📧 shirshadatta2000@gmail.com 
          💼 https://www.linkedin.com/in/shirsha-datta-30335a178/
          👏 https://medium.com/@shirshadatta2000
 - 😄 Pronouns: She/Her
