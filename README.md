@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on myself and getting my skills better
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Cloud , DevOps Assembly Lines and Flutter.
-//- 🤔 I’m looking for help with 
 - 💬 Ask me about anything
 - 📫 How to reach me: 
          💼 https://www.linkedin.com/in/shirsha-datta-30335a178/
