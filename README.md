@@ -1,7 +1,17 @@
-### Hi there this is what I'm working on👋
+<-- ### Hi there this is what I'm working on👋 -->
+<h1 align="center"> Hello There 👋 </h1>
 
 
-Here are some ideas to get you started:
+* I am [Shirsha Datta](https://www.linkedin.com/in/shirsha-datta-30335a178/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science 
+
+* I have done multiple projects ranging from the field of Devops , App Development to Cloud Computing and Automation :file_cabinet: .
+
+* I am currently brushing up my skills and plan to learn more technical skills
+
+* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/shirsha-datta-30335a178/) :sparkler:
+
+
+<-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on myself and getting my skills better
 - 🌱 I’m currently learning Flutter
@@ -11,7 +21,7 @@ Here are some ideas to get you started:
          💼 https://www.linkedin.com/in/shirsha-datta-30335a178/
          👏 https://medium.com/@shirshadatta2000
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Hearing me laugh will make you laugh too 😂
+- ⚡ Fun fact: Hearing me laugh will make you laugh too 😂 -->
 
 ## Tech Stack :computer:
 
