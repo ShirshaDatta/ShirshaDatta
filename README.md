@@ -1,4 +1,4 @@
-<-- ### Hi there this is what I'm working on👋 -->
+<!-- ### Hi there this is what I'm working on👋 -->
 <h1 align="center"> Hello There 👋 </h1>
 
 
@@ -8,10 +8,10 @@
 
 * I am currently brushing up my skills and plan to learn more technical skills
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/shirsha-datta-30335a178/) :sparkler:
+* Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/shirsha-datta-30335a178/) :sparkler:
 
 
-<-- Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on myself and getting my skills better
 - 🌱 I’m currently learning Flutter
