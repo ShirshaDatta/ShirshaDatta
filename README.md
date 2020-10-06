@@ -10,7 +10,7 @@
 
 * Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/shirsha-datta-30335a178/) :sparkler:
 
-* Also checkout my blogs on Medium [Medium Profile](https://medium.com/@shirshadatta2000/)
+* Also checkout my blogs on [Medium](https://medium.com/@shirshadatta2000/)
 
 
 <!-- Here are some ideas to get you started:
