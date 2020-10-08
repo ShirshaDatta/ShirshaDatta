@@ -104,10 +104,10 @@
 
  ## My Activities :mailbox_with_mail:
 
-| BLOGS :open_book: | GitHub Link :tv: |
+| BLOGS :open_book: | GitHub Link :link: |
 | :--- | :--- |
-| [Automatic code fetch from GitHub using Jenkins and Docker](https://www.linkedin.com/pulse/automatic-code-fetch-from-github-using-jenkins-docker-shirsha-datta/) | (https://github.com/ShirshaDatta/Devops) |
-| [Automatic code fetch from GitHub using Jenkins and Docker but with a twist](https://www.linkedin.com/pulse/automatic-code-fetch-from-github-using-jenkins-docker-shirsha-datta-1c/) | (https://github.com/ShirshaDatta/ass2) |
-| [Using Kubernetes to deploy a containerized web-app and automating using Jenkins](https://www.linkedin.com/pulse/using-kubernetes-deploy-containerized-web-app-automating-datta/) | (https://github.com/ShirshaDatta/task3) |
+| [Automatic code fetch from GitHub using Jenkins and Docker](https://www.linkedin.com/pulse/automatic-code-fetch-from-github-using-jenkins-docker-shirsha-datta/) | https://github.com/ShirshaDatta/Devops |
+| [Automatic code fetch from GitHub using Jenkins and Docker but with a twist](https://www.linkedin.com/pulse/automatic-code-fetch-from-github-using-jenkins-docker-shirsha-datta-1c/) | https://github.com/ShirshaDatta/ass2 |
+| [Using Kubernetes to deploy a containerized web-app and automating using Jenkins](https://www.linkedin.com/pulse/using-kubernetes-deploy-containerized-web-app-automating-datta/) | https://github.com/ShirshaDatta/task3 |
 
-If you like the Repository give it a :star: and also follow me on Github :grinning: -->
+If you like the Repository give it a :star: and also follow me on Github :grinning: 
