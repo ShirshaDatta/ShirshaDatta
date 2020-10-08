@@ -102,10 +102,12 @@
 </tbody>
 </table>
 
-<!-- ## My Activities :mailbox_with_mail:
+ ## My Activities :mailbox_with_mail:
+
 | BLOGS :open_book: | GitHub Link :tv: |
 | :--- | :--- |
-| [How Jenkins can help build your code](https://medium.com/@diptochakrabarty/how-jenkins-can-actually-help-you-build-your-code-with-every-commit-5b9b1278f12f) | [Micorservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s) |
-| [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
-| [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) |
+| [Automatic code fetch from GitHub using Jenkins and Docker](https://www.linkedin.com/pulse/automatic-code-fetch-from-github-using-jenkins-docker-shirsha-datta/) | (https://github.com/ShirshaDatta/Devops) |
+| [Automatic code fetch from GitHub using Jenkins and Docker but with a twist](https://www.linkedin.com/pulse/automatic-code-fetch-from-github-using-jenkins-docker-shirsha-datta-1c/) | (https://github.com/ShirshaDatta/ass2) |
+| [Using Kubernetes to deploy a containerized web-app and automating using Jenkins](https://www.linkedin.com/pulse/using-kubernetes-deploy-containerized-web-app-automating-datta/) | (https://github.com/ShirshaDatta/task3) |
+
 If you like the Repository give it a :star: and also follow me on Github :grinning: -->
