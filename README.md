@@ -3,7 +3,9 @@
 
 <p align="center"><img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></p>
 
-
+<p align="center"> <samp>
+  
+ <code>
 * I am [Shirsha Datta](https://www.linkedin.com/in/shirsha-datta-30335a178/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science 
 
 * I have done multiple projects ranging from the field of Devops , App Development to Cloud Computing and Automation :file_cabinet: .
@@ -11,6 +13,8 @@
 * I am currently brushing up my skills and plan to learn more technical skills
 
 * Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/shirsha-datta-30335a178/) :sparkler:
+
+</code>
 
 <!--* Also checkout my blogs on [Medium](https://medium.com/@shirshadatta2000/). If you like it please 👏 -->
 
