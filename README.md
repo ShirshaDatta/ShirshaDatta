@@ -1,5 +1,5 @@
 <!-- ### Hi there this is what I'm working on👋 -->
-<h1 align="center"> Hello There 👋 </h1>
+<h1 align="center"> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 👋 </h1>
 
 
 * I am [Shirsha Datta](https://www.linkedin.com/in/shirsha-datta-30335a178/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science 
