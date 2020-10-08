@@ -12,9 +12,6 @@
 
 <!--* Also checkout my blogs on [Medium](https://medium.com/@shirshadatta2000/). If you like it please 👏 -->
 
- 
-![Shirsha Datta's Github Stats](https://github-readme-stats.vercel.app/api?username=ShirshaDatta&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on myself and getting my skills better
@@ -104,6 +101,9 @@
 
 </tbody>
 </table>
+
+![Shirsha Datta's Github Stats](https://github-readme-stats.vercel.app/api?username=ShirshaDatta&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
  ## My Activities :mailbox_with_mail:
 
