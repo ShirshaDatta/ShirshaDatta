@@ -94,7 +94,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Apache</center></b></span> 
-<img height=65px src="https://img.pngio.com/apache-http-server-web-server-computer-servers-installation-unix-apache-http-server-png-728_406.jpg"> 
+<img height=65px src="https://img.pngio.com/payara-server-basics-part-1-installing-apache-on-ubuntu-apache-http-server-png-320_220.png"> 
 </td>
 
 <td align="center" width="20%">
