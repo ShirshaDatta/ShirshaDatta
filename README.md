@@ -93,8 +93,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<span><b><center>Apache</center></b></span> 
+<img height=65px src="https://img.pngio.com/apache-http-server-web-server-computer-servers-installation-unix-apache-http-server-png-728_406.jpg"> 
 </td>
 
 <td align="center" width="20%">
