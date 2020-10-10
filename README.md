@@ -111,6 +111,8 @@
 
 ## My Projects 👷‍♀️
 
+Connects2
+An application made to connect students of all ages to make learning easy. To know more checkout [here.](https://github.com/ShirshaDatta/Connects-2.git)
  
  ## My Activities :mailbox_with_mail:
 
