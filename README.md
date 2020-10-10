@@ -111,8 +111,10 @@
 
 ## My Projects 👷‍♀️
 
-Connects2
+1. **Connects2**
 An application made to connect students of all ages to make learning easy. To know more checkout [here.](https://github.com/ShirshaDatta/Connects-2.git)
+2. **Server Hardening**
+Ansible Playbooks for Server Hardening. To know more checkout [here.](https://github.com/ShirshaDatta/Server-Hardening.git)
  
  ## My Activities :mailbox_with_mail:
 
