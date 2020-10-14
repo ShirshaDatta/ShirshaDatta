@@ -129,5 +129,9 @@ Ansible Playbooks for Server Hardening. To know more checkout [here.](https://gi
 
 <!--| [Using Kubernetes to deploy a containerized web-app and automating using Jenkins](https://www.linkedin.com/pulse/using-kubernetes-deploy-containerized-web-app-automating-datta/) | https://github.com/ShirshaDatta/task3 | -->
 
+<div align="center">
+ 
+### Show some ❤️ by starring some of the repositories and also following me on Github!
 
+</div>
 If you like the Repository give it a :star: and also follow me on Github :grinning: 
