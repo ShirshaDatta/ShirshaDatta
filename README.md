@@ -134,4 +134,4 @@ Ansible Playbooks for Server Hardening. To know more checkout [here.](https://gi
 ### Show some ❤️ by starring some of the repositories and also following me on Github!
 
 </div>
-If you like the Repository give it a :star: and also follow me on Github :grinning: 
+
