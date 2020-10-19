@@ -21,22 +21,22 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/6" alt="Recent Article 6"></a>
 
 <br> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/7" alt="Recent Article 7"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/7" alt="Recent Article 7"></a>
 
 <br> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/8" alt="Recent Article 8"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/8" alt="Recent Article 8"></a>
 
 <br> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/9" alt="Recent Article 9"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/9" alt="Recent Article 9"></a>
 
 <br> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/10" alt="Recent Article 10"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/10"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/10" alt="Recent Article 10"></a>
 
 <br> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/11" alt="Recent Article 11"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/11"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/11" alt="Recent Article 11"></a>
 
 <br> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/12" alt="Recent Article 12"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/12"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/12" alt="Recent Article 12"></a>
 
 <!--<br> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/13" alt="Recent Article 13"></a>
