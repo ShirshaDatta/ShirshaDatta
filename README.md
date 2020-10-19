@@ -109,7 +109,7 @@
 <img height=65px src="https://financesonline.com/uploads/2019/08/Microsoft-Visual-Studio-logo1.png"> 
 </td>
 
-<tr>
+
 <td align="center" width="20%">
 <span><b><center>Apache Hadoop</center></b></span> 
 <img height=65px src="https://miro.medium.com/max/1050/1*H4_yv5YskknPaJ4lWJpzXA.png"> 
