@@ -135,10 +135,21 @@
 An application made to connect students of all ages to make learning easy. To know more checkout [here.](https://github.com/ShirshaDatta/Connects-2.git)
 2. **Server Hardening**
 Ansible Playbooks for Server Hardening. To know more checkout [here.](https://github.com/ShirshaDatta/Server-Hardening.git)
+
+Checkout my other projects [here.](https://github.com/ShirshaDatta/ShirshaDatta/blob/master/PROJECTS.md)
  
  ## My Activities :mailbox_with_mail:
+ - 📝 &mdash; Blogger, Check my Recent post on [Medium! ](https://medium.com/@shirshadatta2000)
+ 
+<br> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/0" alt="Recent Article 0"></a>
 
-| BLOGS :open_book: | GitHub Link :link: |
+<br> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/6" alt="Recent Article 6"></a>
+
+
+
+ <!--| BLOGS :open_book: | GitHub Link :link: |
 | :--- | :--- |
 | [Automatic code fetch from GitHub using Jenkins and Docker](https://www.linkedin.com/pulse/automatic-code-fetch-from-github-using-jenkins-docker-shirsha-datta/) | https://github.com/ShirshaDatta/Devops |
 | [Automatic code fetch from GitHub using Jenkins and Docker but with a twist](https://www.linkedin.com/pulse/automatic-code-fetch-from-github-using-jenkins-docker-shirsha-datta-1c/) | https://github.com/ShirshaDatta/ass2 |
@@ -146,8 +157,8 @@ Ansible Playbooks for Server Hardening. To know more checkout [here.](https://gi
 | [Web-Server With Live Rolling Updates Using Dynamic Jenkins Slave Node and Kubernetes](https://medium.com/swlh/web-server-with-live-rolling-updates-using-dynamic-jenkins-slave-node-and-kubernetes-28b13b04731e) | https://github.com/ShirshaDatta/Rolling-Updates-with-Zero-Downtime |
 | [Integration of Prometheus and Grafana and making their data persistent](https://medium.com/@shirshadatta2000/integration-of-prometheus-and-grafana-and-making-their-data-persistent-b764f3602411) | https://github.com/ShirshaDatta/Prometheus-and-Grafana-on-Kubernetes |
 | [Automating web-server deployment using Groovy Script](https://medium.com/@shirshadatta2000/automating-web-server-deployment-using-groovy-script-6baca1da39d2) | https://github.com/ShirshaDatta/Automating-the-deployment-of-a-containerized-app-in-K8S-using-Groovy |
-
-<!--| [Using Kubernetes to deploy a containerized web-app and automating using Jenkins](https://www.linkedin.com/pulse/using-kubernetes-deploy-containerized-web-app-automating-datta/) | https://github.com/ShirshaDatta/task3 | -->
+| [Using Kubernetes to deploy a containerized web-app and automating using Jenkins](https://www.linkedin.com/pulse/using-kubernetes-deploy-containerized-web-app-automating-datta/) | https://github.com/ShirshaDatta/task3 | 
+-->
 
 <div align="center">
  
