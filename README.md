@@ -1,7 +1,7 @@
 <!-- ### Hi there this is what I'm working on👋 -->
 <h1 align="center"> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" > <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="50px"> </h1>
 
-         <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px" height="180px" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px" height="180px" />
 
 
 * I am [Shirsha Datta](https://www.linkedin.com/in/shirsha-datta-30335a178/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science 
