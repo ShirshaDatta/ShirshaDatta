@@ -141,7 +141,7 @@ Ansible Playbooks for Server Hardening. To know more checkout [here.](https://gi
          
  
  ## My Activities :mailbox_with_mail:
- - 📝 &mdash; Blogger, Check my Recent post on [Medium! ](https://medium.com/@shirshadatta2000)
+ #### - 📝 &mdash; Blogger, Check my Recent post on [Medium! ](https://medium.com/@shirshadatta2000)
  
 <br> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/0" alt="Recent Article 0"></a>
@@ -164,7 +164,7 @@ Ansible Playbooks for Server Hardening. To know more checkout [here.](https://gi
 
 <div align="center">
  
-### Show some ❤️ by starring some of the repositories and do follow me on [Medium](https://shirshadatta2000.medium.com/)
+### Show some ❤️ by starring some of the repositories and also following me on GitHub.
 
 </div>
 
