@@ -136,8 +136,8 @@ An application made to connect students of all ages to make learning easy. To kn
 2. **Server Hardening**
 Ansible Playbooks for Server Hardening. To know more checkout [here.](https://github.com/ShirshaDatta/Server-Hardening.git)
 
-<b>
-Checkout my other projects</b> [here.](https://github.com/ShirshaDatta/ShirshaDatta/blob/master/PROJECTS.md)
+
+#### Checkout my other projects [here.](https://github.com/ShirshaDatta/ShirshaDatta/blob/master/PROJECTS.md)
          
  
  ## My Activities :mailbox_with_mail:
@@ -164,7 +164,7 @@ Checkout my other projects</b> [here.](https://github.com/ShirshaDatta/ShirshaDa
 
 <div align="center">
  
-### Show some ❤️ by starring some of the repositories and also following me on Github!
+### Show some ❤️ by starring some of the repositories and do follow me on [Medium](https://shirshadatta2000.medium.com/)
 
 </div>
 
