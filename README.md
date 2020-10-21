@@ -147,7 +147,7 @@ Ansible Playbooks for Server Hardening. To know more checkout [here.](https://gi
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/0" alt="Recent Article 0"></a>
 
 <br> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/6" alt="Recent Article 6"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirshadatta2000/7" alt="Recent Article 7"></a>
 
 
 
