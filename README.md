@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230px" height="200px" />
 
 
-* I am [Shirsha Datta](https://www.linkedin.com/in/shirsha-datta-30335a178/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science 
+* I am [Shirsha Datta](https://www.linkedin.com/in/shirsha-datta-30335a178/) :blush:	 . Currently I am a final year student from VIT Vellore in Computer Science 
 
 * I have done multiple projects ranging from the field of Devops , App Development to Cloud Computing and Automation :file_cabinet: .
 
